@@ -1,4 +1,4 @@
-let to = new Date("aug 30 2022 18:00:0");
+let to = new Date("oct 30 2022 18:00:0");
 function uptade() {
   let from = new Date();
   diff = to - from;
@@ -15,5 +15,5 @@ function uptade() {
 
 let interval = setInterval(uptade, 1000);
 function setTwoDigit(argument){
-    return argument>9?argument:'0'+argument;
+    return argument>9?argument:argument
 }
