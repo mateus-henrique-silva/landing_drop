@@ -22,7 +22,7 @@ width:60px;
 
 .icons .icons-config p{
     color:black;
-    width: 50%;
+    width: ;
     padding-left: 10px;
     font-weight:bold;
 }
@@ -42,8 +42,6 @@ width:60px;
         }
         .icons .icons-config p{
             font-size:10px;
-            width:100%;
-            text-align: center;
             padding-left: 0px;
             
             

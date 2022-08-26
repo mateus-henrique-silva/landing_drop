@@ -32,7 +32,7 @@
 
     
 .cotacao-two .just-text p{
-    /* text-transform: uppercase; */
+    text-transform: uppercase;
     font-weight:600;
     width: 100%;
   }
@@ -66,13 +66,13 @@
 }
 
 .just-text p{
-    /* text-transform: uppercase; */
+    text-transform: uppercase;
     font-weight:600;
     width: 60%;
 }
 .btn-king{
     cursor: pointer;
-    text-transform: uppercase;
+    text
     font-weight: bold;
     color: white;
     border-radius: 5px;
