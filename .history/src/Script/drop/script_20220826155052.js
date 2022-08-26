@@ -1,0 +1,3 @@
+const conjunction = [
+    {name}
+]
