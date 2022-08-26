@@ -1,0 +1,21 @@
+header .regressive-count {
+  display: flex;
+  color: white;
+  hei
+  margin-left: 10px;
+}
+
+header .regressive-count div {
+  font-size: 30px;
+
+  font-weight: bold;
+}
+
+.ajust {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  width: 52px;
+}
