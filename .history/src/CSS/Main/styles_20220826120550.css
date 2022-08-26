@@ -1,0 +1,50 @@
+
+main{
+    width: 100%;
+    max-width: 100vw;
+   
+}
+
+
+.main{
+    width: 100%;
+    height: 96vh;
+    display: flex;
+    background: url('../../Assets/city.jpg') no-repeat fixed center;
+    background-size: cover;
+}
+
+.main .main-first{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    align-items:center;
+    justify-content: center;
+    height:100%;
+}
+
+.main .main-first img{
+width:200px;
+height:180px;
+}
+.main .main-first .text-main {
+    color: white;
+    margin-top:25px;
+   padding-left: 22%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left!important;
+    }
+.main .main-second{
+    width: 50vw;
+    height:100%;
+    display: flex;
+}
+
+
+
+.btn-main-first{
+    text-transform: uppercase;
+    font-weight:bold;
+    background-color: white;
+}
