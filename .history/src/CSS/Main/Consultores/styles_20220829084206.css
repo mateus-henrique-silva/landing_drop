@@ -1,0 +1,13 @@
+.botao-consultor {
+  width: 100%;
+  height: 20vh;
+  align-items: center;
+  max-width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+
+.botao-consultor button{
+    padding:10px 55px 5px;
+}

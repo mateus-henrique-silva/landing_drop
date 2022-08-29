@@ -14,6 +14,6 @@ function uptade() {
 }
 
 let interval = setInterval(uptade, 1000);
-function setTwoDigit(argument) {
-  return argument > 9 ? argument : "0" + argument;
+function setTwoDigit(argument){
+    return argument>9?argument:'0'+argument;
 }

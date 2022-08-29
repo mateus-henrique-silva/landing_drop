@@ -1,0 +1,25 @@
+.botao-consultor {
+  width: 100%;
+  height: 40vh;
+  align-items: center;
+  max-width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+.botao-consultor button {
+  
+  font-weight: bold;
+  color: white;
+  animation: mymove 1s infinite;
+  
+}
+
+@keyframes mymove {
+  from {
+    padding: 25px 100px 25px;
+  }
+  to {
+    padding:55px 130px 55px;
+  }
+}
