@@ -13,7 +13,7 @@
   border-radius: 5px;
   color: white;
   background-color:#a71319;
-  animation: mymove 0.8s infinite;
+  animation: mymove 0.6s infinite;
   cursor: pointer;
 
 }
@@ -22,11 +22,7 @@
  0% {
     padding: 15px 30px 15px;
   }
-  50% {
+  1% {
     padding:35px 60px 35px;
-  }
-
-  100%{
-    padding: 15px 30px 15px;
   }
 }

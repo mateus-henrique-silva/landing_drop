@@ -13,7 +13,7 @@
   border-radius: 5px;
   color: white;
   background-color:#a71319;
-  animation: mymove 0.8s infinite;
+  animation: mymove 1s infinite;
   cursor: pointer;
 
 }
@@ -27,6 +27,6 @@
   }
 
   100%{
-    padding: 15px 30px 15px;
+    padding: 20px 40px 20px;
   }
 }
